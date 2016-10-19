@@ -1,0 +1,11 @@
+[(
+ "q", "*"
+), (
+ "job_type", "hourly"
+), (
+ "budget", "10000-"
+), (
+ "job_status", "open"
+), (
+ "days_posted", "4"
+)]
